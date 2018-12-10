@@ -1,0 +1,18 @@
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\bin\Debug\ClaveInvalidaException.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\bin\Debug\ClaveInvalidaException.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\bin\Debug\Entidades.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\bin\Debug\ClaveInvalidaException.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\bin\Debug\ClaveInvalidaException.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\obj\Debug\Entidades.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Entidades\obj\Debug\Entidades.pdb

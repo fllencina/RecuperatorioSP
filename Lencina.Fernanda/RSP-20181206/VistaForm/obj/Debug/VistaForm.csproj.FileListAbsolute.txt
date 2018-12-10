@@ -1,0 +1,36 @@
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\VistaForm.exe.config
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\VistaForm.exe
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\VistaForm.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\Archivos.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\ClaveInvalidaException.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\Entidades.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\Archivos.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\ClaveInvalidaException.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\bin\Debug\Entidades.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.FormAgencia.resources
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.FormLogin.resources
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.exe
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\Archivos.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\ClaveInvalidaException.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\Entidades.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\Archivos.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\ClaveInvalidaException.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.FormAgencia.resources
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.FormLogin.resources
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\VistaForm\obj\Debug\VistaForm.pdb

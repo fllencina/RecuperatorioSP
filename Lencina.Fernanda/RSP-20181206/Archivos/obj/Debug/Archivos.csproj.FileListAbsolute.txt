@@ -1,0 +1,12 @@
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Archivos\bin\Debug\Archivos.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Archivos\bin\Debug\Archivos.pdb
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Archivos\obj\Debug\Archivos.dll
+D:\VisualStudio\fernanda\recuperatorio\RSP-20181206\RSP-20181206\Archivos\obj\Debug\Archivos.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Archivos\bin\Debug\Archivos.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Archivos\bin\Debug\Archivos.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Archivos\obj\Debug\Archivos.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial-master\para-el-parcial-master\Lencina.Fernanda.2018\Lencina.Fernanda.2018\RSP-20181206\Archivos\obj\Debug\Archivos.pdb
