@@ -33,35 +33,56 @@ namespace VistaForm
         {
             Pasajero unPasajero = new Pasajero(txtNombre.Text, txtApellido.Text, txtDni.Text);
             string tipoPasaje = cmbTipoPasaje.Text;
-            switch(tipoPasaje)
+            try
             {
-                case "Micro":
-                    PasajeMicro pasajeMicro = new PasajeMicro(txtOrigen.Text, txtDestino.Text, unPasajero, Convert.ToSingle(txtPrecio.Text), Convert.ToDateTime(dtpFechaPartida.Text),(Entidades.Servicio)cmbTipoServicio.SelectedValue);
-                    agencia.PasajesVendidos.Add((Pasaje)pasajeMicro);
-                    break;
-                case "Avión":
-                    PasajeAvion pasajeAvion = new PasajeAvion(txtOrigen.Text, txtDestino.Text, unPasajero, Convert.ToSingle(txtPrecio.Text), Convert.ToDateTime(dtpFechaPartida.Text),Convert.ToInt32(nudEscalas.Value) );
-                    agencia.PasajesVendidos.Add((Pasaje)pasajeAvion);
-                    break;
+                switch (tipoPasaje)
+                {
+                    case "Micro":
+                        PasajeMicro pasajeMicro = new PasajeMicro(txtOrigen.Text, txtDestino.Text, unPasajero, Convert.ToSingle(txtPrecio.Text), Convert.ToDateTime(dtpFechaPartida.Text), (Entidades.Servicio)cmbTipoServicio.SelectedValue);
+                        agencia += pasajeMicro;
+
+                        break;
+                    case "Avión":
+                        PasajeAvion pasajeAvion = new PasajeAvion(txtOrigen.Text, txtDestino.Text, unPasajero, Convert.ToSingle(txtPrecio.Text), Convert.ToDateTime(dtpFechaPartida.Text), Convert.ToInt32(nudEscalas.Value));
+                        agencia += pasajeAvion;
+
+                        break;
+                }
+                MessageBox.Show("Pasaje emitido correctamente", "Pasaje", MessageBoxButtons.OK);
             }
-           
+            catch (Exception ex)
+            {
+                MessageBox.Show("No se pudo emitir pasaje", "Pasaje", MessageBoxButtons.OK);
+            }
+
+            finally
+            {
+
+                this.txtNombre.Text = "Nombre";
+                this.txtApellido.Text = "Apellido";
+                this.txtDni.Text = "33444555";
+                this.txtOrigen.Text = "Buenos Aires";
+                this.txtDestino.Text = "Cordoba";
+            }
+            
         }
 
         private void btnMostrar_Click(object sender, System.EventArgs e)
         {
-            rtbMostrar.Text=this.agencia.ToString();
+            rtbMostrar.Text= (string)this.agencia;
         }
 
         private void btnGuardar_Click(object sender, System.EventArgs e)
         {
             Xml<Agencia> serializar = new Xml<Agencia>();
+            
             try
             {
-                serializar.Guardar("Agencia.xml", this.agencia);
+                serializar.Guardar("Agencia.xml",this.agencia);
             }
             catch(Exception error)
-            {
-                MessageBox.Show("Error al serializar","Error.",MessageBoxButtons.OK,MessageBoxIcon.Error);
+            {      
+                MessageBox.Show(error.Message, "Error.",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
 

@@ -22,7 +22,7 @@ namespace Entidades
             pasajesVendidos = new List<Pasaje>();
         }
 
-        public Agencia(string nombre)
+        public Agencia(string nombre): this()
         {
             this.Nombre = nombre;
         }
